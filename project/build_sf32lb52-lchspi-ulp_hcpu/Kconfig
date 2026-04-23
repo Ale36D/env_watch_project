@@ -1,0 +1,5 @@
+source "$SIFLI_SDK/Kconfig.v2"
+source "$SIFLI_SDK/customer/boards/Kconfig.v2"
+source "H:/individual/Code/SiFli/SiFli-SDK/customer/boards/sf32lb52-lchspi-ulp/hcpu/Kconfig.board"
+osource "H:/individual/graduationProject/project/lvgl_v8_control/project/sf-pkgs/Kconfig.conandeps"
+source "H:/individual/graduationProject/project/lvgl_v8_control/project/Kconfig.proj"
